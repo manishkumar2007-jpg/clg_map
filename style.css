@@ -155,7 +155,6 @@
     .location-item span {
       display: block;
       font-weight: 500;
-      font-color:rgba (173, 216, 230, 1);
     }
 
     .location-item small {
@@ -316,4 +315,5 @@
       }
 
     }
+
 
